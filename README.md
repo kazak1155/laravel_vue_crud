@@ -1,5 +1,5 @@
 laravel 11 + bootstrap+vue
-crud spa vue component
+crud vue component
 
 - npm install
 - composer intall
